@@ -1,5 +1,5 @@
 <div align="center">
-<img src="harv.png">
+<img src="assets/harv.png">
 </div>
 <h1 align="center"><i>Harvester</i></h1>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img src="Harvester.GIF">
+<img src="assets/Harvester.GIF">
 </p>
 
 
